@@ -2,3 +2,10 @@ html {
   font-family: 'Passion One', cursive;
   color: #ff0000;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
